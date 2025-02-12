@@ -80,10 +80,10 @@ mvn clean package
 - 该工具依赖于PaddleOCR的可执行文件，请确保其路径正确并可访问。
 
 ## 贡献
-本项目复刻改自：
-https://github.com/Antenbabby/ocrExcel
-https://github.com/hiroi-sora/PaddleOCR-json
-欢迎任何形式的贡献！请提交问题或拉取请求。
+- 本项目复刻改自：
+- https://github.com/Antenbabby/ocrExcel
+- https://github.com/hiroi-sora/PaddleOCR-json
+- 欢迎任何形式的贡献！请提交问题或拉取请求。
 ---
 
 如有任何问题或建议，请随时联系项目维护者。希望您能享受使用该工具的过程！

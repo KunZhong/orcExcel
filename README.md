@@ -54,7 +54,6 @@ mvn clean package
 ### 3. 运行项目
 运行主应用程序：
 进入orcExcelUtil目录，启动start.bat
-```
 
 ### 4. 使用说明
 程序启动后，您将看到如下菜单：
